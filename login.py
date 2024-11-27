@@ -1,6 +1,7 @@
 # 1. Define a function to greet the user
 def greet(name):
     print(f"Hello, {name}!")
+    print(f"Hello, {number}!") # i have duplicated the line
 
 # 2. Input from the user
 name = input("Enter your name: ")
