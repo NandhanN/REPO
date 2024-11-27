@@ -11,7 +11,9 @@ greet(name)
 
 # 4. Define a function to calculate the square of a number
 def square(number):
-    return number * number
+    return number * name
+
+return number * name
 
 # 5. Input for number
 number = int(input("Enter a number to square: "))
