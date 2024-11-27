@@ -16,7 +16,8 @@ def square(number):
 number = int(input("Enter a number to square: "))
 
 # 6. Calculate and display the square
-result = square(number)
+result = square(name)
+result = square(name)
 print(f"The square of {number} is {result}")
 
 # 7. Using a loop to print squares of numbers from 1 to 5
